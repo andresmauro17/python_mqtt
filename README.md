@@ -7,6 +7,7 @@ This is a project to test in order to send and receive data from and to a mqtt b
 -   To clone the repository 
 -   To create a virtual enviroment
 ``` virtualenv -p $(which python3) . ```
+``` python3 -m venv .```
 -   To activate the virtual enviroment (WINDOWS)
 ``` source bin/activate ```
 -   To install dependencies
